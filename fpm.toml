@@ -1,0 +1,13 @@
+name = "dovetail"
+version = "0.1.0"
+license = "MIT"
+author = "Provokke"
+description = "Dense linear solvers in modern Fortran"
+
+[build]
+auto-tests = false
+
+[[test]]
+name = "check"
+source-dir = "test"
+main = "check.f90"
