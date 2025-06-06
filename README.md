@@ -101,3 +101,4 @@ The exact solution is `2, 3, -1`.
 ## Licence
 
 MIT.
+
