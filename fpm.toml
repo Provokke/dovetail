@@ -11,4 +11,3 @@ auto-tests = false
 name = "check"
 source-dir = "test"
 main = "check.f90"
-
